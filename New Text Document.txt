@@ -1,0 +1,14 @@
+using system
+
+namespace Project 
+{
+
+	public class Program
+	{
+		void main()
+		{
+			console.writeline("North");
+		}
+		
+	}
+}
