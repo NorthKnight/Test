@@ -8,6 +8,7 @@ namespace Project
 		void main()
 		{
 			console.writeline("North");
+			return 0;
 		}
 		
 	}
